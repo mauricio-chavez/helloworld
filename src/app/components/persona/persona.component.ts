@@ -128,7 +128,7 @@ export class PersonaComponent implements OnInit {
   }
 
   // Actualizar una persona
-  updatePersona(persona: Persona) {    
+  updatePersona() {    
     this.updated = true;
 
     for (const key in this.personaUpdateForm.value) {
