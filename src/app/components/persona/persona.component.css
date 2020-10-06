@@ -1,0 +1,14 @@
+.card-header {
+  background: #f9c;
+  color:#0f0f0f;
+}
+
+.table {
+  background: rgb(255, 209, 232);
+  color: #000;
+}
+
+.btn-black {
+  background: #000;
+  color: #fff;
+}
